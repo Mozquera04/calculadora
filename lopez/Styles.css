@@ -8,11 +8,16 @@
     background-color:yellow;
     margin: unset
 }
+.cuerpo{
+
+    border:solid;
+    background-color:beige;
+}
 
 #txtResultado {
     padding: 20px; /* relleno */
     width: 290px; /* ancho */
-    background-color: darkslategrey; /* Color de fondo */
+    background-color:yellow;/* Color de fondo */
     border: initial; /* Estilo del borde (none; solid, dotted, dashed, inset, outset) */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Cuadro - Sombra */
     cursor: zoom-in; /* Cursor */
